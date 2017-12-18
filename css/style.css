@@ -1,0 +1,32 @@
+body {
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.setting {
+	display: inline-block;
+	margin: 30px;
+}
+
+#clock {
+	display: block;
+	box-sizing: border-box;
+	width: 250px;
+	height: 250px;
+	border: 1px solid black;
+	border-radius: 125px;
+	font-size: 2em;
+	margin: 0 auto;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+}
+
+progress {
+	width: 250px;
+	margin: 15px;
+	background-color: white;
+}
